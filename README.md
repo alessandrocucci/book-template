@@ -1,6 +1,5 @@
 # Pandoc book template
 
-[![CircleCI](https://circleci.com/gh/wikiti/pandoc-book-template.svg?style=shield)](https://circleci.com/gh/wikiti/pandoc-book-template)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wikiti/pandoc-book-template/blob/master/LICENSE.md)
 
 ## Description
@@ -53,9 +52,9 @@ Edit the *metadata.yml* file to set configuration data (note that it must start 
 ```yml
 ---
 title: My book title
-author: Daniel Herzog
+author: Alessandro Cucci
 rights:  MIT License
-language: en-US
+language: it-IT
 tags: [book, my-book, etc]
 abstract: |
   Your summary text.
@@ -296,3 +295,4 @@ This project has been developed by:
 | Avatar | Name | Nickname | Email |
 | ------ | ---- | -------- | ----- |
 | ![](http://www.gravatar.com/avatar/2ae6d81e0605177ba9e17b19f54e6b6c.jpg?s=64)  | Daniel Herzog | Wikiti | [info@danielherzog.es](mailto:info@danielherzog.es)
+|   | Alessandro Cucci | alessandrocucci | [alessandro.cucci@gmail.com](mailto:alessandro.cucci@gmail.com)
